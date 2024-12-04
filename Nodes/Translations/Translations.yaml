@@ -1,0 +1,52 @@
+Name: Translations
+Type: TranslationsCategoryFolder
+Children:
+- Name: LocalizationDictionary1
+  Type: LocalizationDictionary
+  DataType: String
+  ValueRank: OneOrMoreDimensions
+  ArrayDimensions: [0,0]
+  Value: 
+   {
+    "Type": 12,
+    "Dimensions": [37,2],
+    "Body": [
+     "","en-US",
+     "LoginChangePasswordFormPasswordTooShort","Password too short",
+     "Confirm password","Confirm password",
+     "Password","Password",
+     "New password","New password",
+     "LoginFormPasswordExpired","Password expired",
+     "Login","Login",
+     "Old password","Old password",
+     "Change password","Change password",
+     "Logout","Logout",
+     "Current User:","Current User:",
+     "Your password is expired. Please enter a new one","Your password is expired.\nPlease enter a new one.",
+     "LoginFormLoginSuccessful","Login successful",
+     "LoginChangePasswordFormUnsupportedOperation","Unsupported operation",
+     "LoginFormAuthenticationFailed","Authentication failed",
+     "LoginChangePasswordFormWrongOldPassword","Wrong old password",
+     "LoginChangePasswordFormUserNotFound","User not found",
+     "LoginChangePasswordFormPasswordAlreadyUsed","Password already used",
+     "LoginChangePasswordFormPasswordChangedTooRecently","Password changed too recently",
+     "LoginChangePasswordFormPasswordsDoNotMatch","Passwords do not match",
+     "Create","Create",
+     "Groups","Groups",
+     "EmptyUserList","No users in list",
+     "Delete","Delete",
+     "Apply","Apply",
+     "Cancel","Cancel",
+     "Name","Name",
+     "PasswordChangedTooRecently","Password changed too recently",
+     "Locale:","Locale:",
+     "CannotCreateUserWithEmptyUsername","Cannot create user with empty username",
+     "UnableToGetUsers","Unable to get users",
+     "UsernameAlreadyExists","Username already exists",
+     "UserNotFound","User not found",
+     "PasswordAlreadyUsed","Password already used in the past",
+     "PasswordTooShort","Password too short",
+     "UnsupportedOperation","Unsupported operation",
+     "ChangesAppliedSuccessfully","Changes applied successfully"
+    ]
+   }

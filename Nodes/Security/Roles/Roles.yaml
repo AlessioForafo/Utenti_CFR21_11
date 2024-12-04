@@ -1,0 +1,13 @@
+Name: Roles
+Id: g=168315c4ba704e70bb13e35de715eb03
+Type: RolesCategoryFolder
+Children:
+- Name: Amministratori
+  Id: g=07e844a16d85b871c3406cd63b319e52
+  Type: ns=1;RoleType
+- Name: Manutentori
+  Id: g=6cc76de7cf581408ec5989f4251346ec
+  Type: ns=1;RoleType
+- Name: Operatori
+  Id: g=09d12001988a2d4245835232e92f1957
+  Type: ns=1;RoleType
